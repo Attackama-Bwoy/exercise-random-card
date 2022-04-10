@@ -1,0 +1,25 @@
+#cardbody {
+    
+    border-radius: 20px;
+    
+}
+
+#suit {
+    font-size: 130px;
+}
+
+#number {
+    font-size: 150px;
+}
+
+.rojo{
+    color: red;
+}
+
+.negro {
+    color: black;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
